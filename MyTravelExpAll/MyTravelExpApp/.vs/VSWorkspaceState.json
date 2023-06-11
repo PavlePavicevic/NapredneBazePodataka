@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\images",
+    "\\src",
+    "\\src\\Chat",
+    "\\src\\components",
+    "\\src\\components\\AboutUs",
+    "\\src\\components\\ConcretePost",
+    "\\src\\components\\Feed"
+  ],
+  "SelectedNode": "\\src\\setupTests.js",
+  "PreviewInSolutionExplorer": false
+}

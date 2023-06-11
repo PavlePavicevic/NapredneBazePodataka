@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "FoywKykqrqivGReU0NDDoTHquvoGzMoplAnm/yABYoN2nEd9ZZbfaN84cAIr2Ilez/uV7jKuZw7ZluBI3r4QnQ==",
+  "success": true,
+  "projectFilePath": "P:\\NBP1\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\MyTravelExp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\servicestack.common\\6.9.0\\servicestack.common.6.9.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\servicestack.interfaces\\6.9.0\\servicestack.interfaces.6.9.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\servicestack.redis\\6.9.0\\servicestack.redis.6.9.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\servicestack.text\\6.9.0\\servicestack.text.6.9.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\pavle\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
