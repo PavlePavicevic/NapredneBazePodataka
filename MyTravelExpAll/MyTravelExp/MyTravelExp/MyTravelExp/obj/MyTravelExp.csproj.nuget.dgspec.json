@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\NBP1\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\MyTravelExp.csproj": {}
+    "P:\\NBP\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\MyTravelExp.csproj": {}
   },
   "projects": {
-    "P:\\NBP1\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\MyTravelExp.csproj": {
+    "P:\\NBP\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\MyTravelExp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\NBP1\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\MyTravelExp.csproj",
+        "projectUniqueName": "P:\\NBP\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\MyTravelExp.csproj",
         "projectName": "MyTravelExp",
-        "projectPath": "P:\\NBP1\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\MyTravelExp.csproj",
+        "projectPath": "P:\\NBP\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\MyTravelExp.csproj",
         "packagesPath": "C:\\Users\\pavle\\.nuget\\packages\\",
-        "outputPath": "P:\\NBP1\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\obj\\",
+        "outputPath": "P:\\NBP\\MyTravelExpAll\\MyTravelExp\\MyTravelExp\\MyTravelExp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pavle\\AppData\\Roaming\\NuGet\\NuGet.Config",

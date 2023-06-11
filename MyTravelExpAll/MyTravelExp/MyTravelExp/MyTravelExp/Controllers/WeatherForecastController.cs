@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Anonymer.Controllers
+namespace MyTravelExp.Controllers
 {
     [ApiController]
     [Route("[controller]")]

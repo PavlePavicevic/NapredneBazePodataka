@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nac+mjpG1OAtcdzopQHD0ABWbUoJGbAvskF1wdF7diVOXJyunOyXlu48nvNZ89ilbKoHKdnwrrla2S2ZscwsNQ==",
+  "dgSpecHash": "lszJ13VWWAqYXx33UML2Ha8PZ22qcmwYEttA8+6Fw+lcBoATO5VSP79Cz0AzFs3MCZdYnwRaGCl7hRu4KC3czw==",
   "success": true,
-  "projectFilePath": "P:\\NBP1\\MyPhoneAll\\MyPhone\\MyPhone.csproj",
+  "projectFilePath": "P:\\NBP\\MyPhoneAll\\MyPhone\\MyPhone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pavle\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\pavle\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

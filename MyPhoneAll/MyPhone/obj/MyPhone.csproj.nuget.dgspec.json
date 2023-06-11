@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\NBP1\\MyPhoneAll\\MyPhone\\MyPhone.csproj": {}
+    "P:\\NBP\\MyPhoneAll\\MyPhone\\MyPhone.csproj": {}
   },
   "projects": {
-    "P:\\NBP1\\MyPhoneAll\\MyPhone\\MyPhone.csproj": {
+    "P:\\NBP\\MyPhoneAll\\MyPhone\\MyPhone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\NBP1\\MyPhoneAll\\MyPhone\\MyPhone.csproj",
+        "projectUniqueName": "P:\\NBP\\MyPhoneAll\\MyPhone\\MyPhone.csproj",
         "projectName": "MyPhone",
-        "projectPath": "P:\\NBP1\\MyPhoneAll\\MyPhone\\MyPhone.csproj",
+        "projectPath": "P:\\NBP\\MyPhoneAll\\MyPhone\\MyPhone.csproj",
         "packagesPath": "C:\\Users\\pavle\\.nuget\\packages\\",
-        "outputPath": "P:\\NBP1\\MyPhoneAll\\MyPhone\\obj\\",
+        "outputPath": "P:\\NBP\\MyPhoneAll\\MyPhone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pavle\\AppData\\Roaming\\NuGet\\NuGet.Config",
